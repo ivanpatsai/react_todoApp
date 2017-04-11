@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --watch",
-    "buildp": "NODE_ENV=production webpack",
+    "buildp": "webpack",
     "test": "NODE_ENV=test karma start",
     "start": "npm run buildp && node server.js"
   },
