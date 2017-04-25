@@ -18,9 +18,6 @@ App is deployed on [Heroku]
 - [expect.js]
 - ES6
 
-### Todo:
-- finish with tests;
-
 
 
 [heroku]: <https://www.heroku.com/>
